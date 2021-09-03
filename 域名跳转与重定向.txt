@@ -1,0 +1,32 @@
+!域名和短域名相关
+!短域名
+3.cn -> https://www.jd.com/
+acg.tv -> https://www.bilibili.com/
+amzn.to -> https://www.amazon.com/
+duck.com + ddg.gg + ddg.co -> https://duckduckgo.com/
+ele.me -> https://www.ele.me/
+fan.fo -> https://fanfou.com/
+fb.me -> https://www.facebook.com/
+g.cn -> http://www.google.cn/
+lnkd.in -> https://www.linkedin.com/
+t.cn -> https://weibo.com/
+t.me -> https://telegram.org/
+url.cn -> https://www.qq.com/
+w.org -> https://wordpress.org/
+wp.me -> https://wordpress.com/zh-cn/
+yhoo.it -> https://www.yahoo.com/
+youtu.be -> https://www.youtube.com/?feature=youtu.be -> https://www.youtube.com/
+yt.be -> https://www.youtube.com/
+z.cn -> https://www.amazon.cn/ref=z_cn?tag=zcn0e-23
+
+!由原来的域名跳转到新域名
+haoso.com -> https://www.so.com/?src=haoso.com
+yisou.com -> https://m.sm.cn/
+
+!域名拥有者拥有其他域名，但会跳转到主域名
+acfun.net -> https://www.acfun.cn/
+google.net + gogole.com + googel.com -> https://www.google.com/
+
+!域名用来跳转，但域名最底下没东西或不会跳转到主页面
+b23.tv
+t.co
